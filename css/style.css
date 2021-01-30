@@ -1,0 +1,81 @@
+body{
+  background-color: #e8e8e8;
+}
+
+.link1{
+  color: white;
+  margin-left: 143px;
+}
+.link2{
+  color: white;
+}
+.link3{
+  color: white;
+}
+.link4{
+  color: white;
+}
+.link5{
+  color: white;
+}
+
+.first-container{
+background-color: #1a1c20;
+border: #323232;
+border-style: solid;
+border-width: 20px;
+}
+
+.second-container{
+  background-color: black;
+  border: white;
+  border-style: solid;
+  border-width: 15px 10px 15px 0px white;
+}
+
+
+.div1 { display: inline-flex;
+background-color: black;
+}
+
+}
+.third-container{
+  background-color: black;
+  border: white;
+  border-style: solid;
+  width: 488px;
+  text-align: center;
+}
+
+
+
+.fourth-container{
+  background-color: black;
+  border: white;
+  border-style: solid;
+  width: 488px;
+  text-align: center;
+
+}
+.fifth-container{
+  background-color: black;
+  border-style: solid;
+  width: 488px;
+  text-align: center;
+
+}
+.Sport{
+  width: 488px;
+}
+.Sport2{
+  width: 488px;
+}
+.Sport3{
+  width: 488px;
+}
+
+.last-container{
+  background-color: black;
+  text-align: center;
+
+}
